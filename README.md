@@ -1,4 +1,3 @@
 # Releases
-![toontown-logo](https://user-images.githubusercontent.com/25042634/50577497-773bc600-0df7-11e9-965b-31e271ad9a33.jpg)
-
+file:///media/fuse/drivefs-91f7f24eca7fad7bde6fbe69fd363fb4/root/logo.jpeg
 # Toontown Remodified
