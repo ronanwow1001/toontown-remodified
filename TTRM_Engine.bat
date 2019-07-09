@@ -4,7 +4,7 @@ title Toontown Remodified Engine
 
 set /P ttrUsername="Username: " || ^
 set ttrUsername=username
-set /P ttrpassword="Paassword: " || ^
+set /P ttrpassword="Password: " || ^
 set ttrpassword=password
 set TTR_PLAYCOOKIE=%ttrUsername%
 set TTR_PASSWORD=%ttrpassword%
