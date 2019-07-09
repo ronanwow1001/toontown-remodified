@@ -1,6 +1,6 @@
 @echo off
 
-title "Toontown Remodified Engine"
+title Toontown Remodified Engine
 
 set /P ttrUsername="Username: " || ^
 set ttrUsername=username
