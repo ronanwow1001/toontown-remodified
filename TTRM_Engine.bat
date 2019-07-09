@@ -24,7 +24,7 @@ echo ===============================
 
 %PPYTHON_PATH% -m "toontown.toonbase.CilentStart.py"
 
-echo loading...
+echo starting the game enjoy...
 
 goto server
 
