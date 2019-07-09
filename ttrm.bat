@@ -22,5 +22,8 @@ echo Username: %ttrUsername%
 echo Client Agent IP: %TTR_GAMESERVER%
 echo ===============================
 
-%PPYTHON_PATH% -m toontown.toonbase.ToontownStart
+%PPYTHON_PATH% -m "toontown.toonbase.Cilentstart.py"
+
+goto server
+
 pause
